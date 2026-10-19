@@ -1,2 +1,2 @@
 # code408
-Official music website for Code 408
+Official Code 408 _ Fun Code
